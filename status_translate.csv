@@ -1,0 +1,138 @@
+status,status_final
+Accident,Accident
+Collision,Accident
+Collision damage,Accident
+Damage,Accident
+Debris,Accident
+Finished,Finished
+Driver unwell,Health
+Eye injury,Health
+Fatal accident,Health
+Illness,Health
+Injured,Health
+Injury,Health
+Physical,Health
++1 Lap,Laps
++10 Laps,Laps
++11 Laps,Laps
++12 Laps,Laps
++13 Laps,Laps
++14 Laps,Laps
++15 Laps,Laps
++16 Laps,Laps
++17 Laps,Laps
++18 Laps,Laps
++19 Laps,Laps
++2 Laps,Laps
++20 Laps,Laps
++21 Laps,Laps
++22 Laps,Laps
++23 Laps,Laps
++24 Laps,Laps
++25 Laps,Laps
++26 Laps,Laps
++29 Laps,Laps
++3 Laps,Laps
++30 Laps,Laps
++38 Laps,Laps
++4 Laps,Laps
++42 Laps,Laps
++44 Laps,Laps
++46 Laps,Laps
++49 Laps,Laps
++5 Laps,Laps
++6 Laps,Laps
++7 Laps,Laps
++8 Laps,Laps
++9 Laps,Laps
+Alternator,Mechanic
+Axle,Mechanic
+Battery,Mechanic
+Brake duct,Mechanic
+Brakes,Mechanic
+Broken wing,Mechanic
+Chassis,Mechanic
+Clutch,Mechanic
+Crankshaft,Mechanic
+CV joint,Mechanic
+Differential,Mechanic
+Distributor,Mechanic
+Driver Seat,Mechanic
+Driveshaft,Mechanic
+Drivetrain,Mechanic
+Electrical,Mechanic
+Electronics,Mechanic
+Engine,Mechanic
+ERS,Mechanic
+Exhaust,Mechanic
+Front wing,Mechanic
+Fuel leak,Mechanic
+Fuel pressure,Mechanic
+Fuel pump,Mechanic
+Fuel system,Mechanic
+Gearbox,Mechanic
+Halfshaft,Mechanic
+Hydraulics,Mechanic
+Ignition,Mechanic
+Injection,Mechanic
+Mechanical,Mechanic
+Oil leak,Mechanic
+Oil pump,Mechanic
+Pneumatics,Mechanic
+Power Unit,Mechanic
+Puncture,Mechanic
+Radiator,Mechanic
+Rear wing,Mechanic
+Spark plugs,Mechanic
+Steering,Mechanic
+Supercharger,Mechanic
+Suspension,Mechanic
+Throttle,Mechanic
+Transmission,Mechanic
+Turbo,Mechanic
+Tyre,Mechanic
+Tyre puncture,Mechanic
+Water leak,Mechanic
+Water pipe,Mechanic
+Water pump,Mechanic
+Wheel,Mechanic
+Wheel bearing,Mechanic
+Wheel nut,Mechanic
+Wheel rim,Mechanic
+Engine fire,Other
+Engine misfire,Other
+Fire,Other
+Fuel,Other
+Fuel pipe,Other
+Fuel rig,Other
+Heat shield fire,Other
+Launch control,Other
+Magneto,Other
+Oil line,Other
+Oil pipe,Other
+Out of fuel,Other
+Overheating,Other
+Refuelling,Other
+Safety,Other
+Safety belt,Other
+Safety concerns,Other
+Seat,Other
+Spun off,Other
+Stalled,Other
+Track rod,Other
+Underweight,Other
+Vibrations,Other
+107% Rule,Qualify
+Did not prequalify,Qualify
+Did not qualify,Qualify
+Disqualified,Qualify
+Excluded,Qualify
+Not classified,Qualify
+Not restarted,Qualify
+Retired,Qualify
+Withdrew,Qualify
+Handling,Technic
+Oil pressure,Technic
+Power loss,Technic
+Technical,Technic
+Water pressure,Technic
